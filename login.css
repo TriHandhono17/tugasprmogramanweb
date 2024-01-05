@@ -1,0 +1,35 @@
+
+body{
+
+    background-color: #eb5216;
+    text-transform: uppercase;
+}
+
+    .login {
+        background-color: #eb5216;
+    }
+
+
+
+.navbar-brand{
+    font-family: 'Righteous', Roboto Mono;
+}
+
+.login {
+    border: 0;
+    height: 200px;
+    margin: auto;
+}
+
+.login h4{
+    margin-top: 100px;
+}
+
+form .form-group input{
+    margin: auto;
+}
+
+form .user input{
+    margin: auto;
+    margin-top: 0px;
+}
